@@ -18,3 +18,7 @@ Exercicio 2
 - Executar o script na pasta SQL/exercicio-2
 - Executar o código no diretório do projeto
 
+Exercicio 3
+
+- Executar o código no diretório do projeto
+
